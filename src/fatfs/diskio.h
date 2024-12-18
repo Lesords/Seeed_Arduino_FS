@@ -5,10 +5,11 @@
 #ifndef _DISKIO_DEFINED
 #define _DISKIO_DEFINED
 
+#include "Arduino.h"
+
 #ifdef __cplusplus
 extern "C" {
 #endif
-#include "Arduino.h"
 #include "integer.h"
 
 
